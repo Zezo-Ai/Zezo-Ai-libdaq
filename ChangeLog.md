@@ -1,3 +1,7 @@
+2026-03-17: 3.0.27
+
+* libdaq: add a ChangeLog.md file to track changes
+
 2026-03-02: 3.0.26
 
 * pcap: add basic rewind feature upon reaching EOF (excluding stdin and pcapng)
